@@ -1,4 +1,4 @@
-/* Loops throught all files in controllers folder in order to configure express routes */
+/* Loops through all files in controllers folder in order to configure express routes */
 
 var fs = require('fs');
 
